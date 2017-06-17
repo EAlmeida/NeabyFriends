@@ -1,0 +1,8 @@
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\bin\Debug\NearbyFriends.Test.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\bin\Debug\NearbyFriends.Test.pdb
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\bin\Debug\NearbyFriends.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\bin\Debug\NearbyFriends.pdb
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\obj\Debug\NearbyFriends.Test.csprojResolveAssemblyReference.cache
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\obj\Debug\NearbyFriends.Test.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.Test\obj\Debug\NearbyFriends.Test.pdb

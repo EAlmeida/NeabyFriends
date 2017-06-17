@@ -1,0 +1,11 @@
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\obj\Debug\NearbyFriends.ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\bin\Debug\NearbyFriends.ConsoleTest.exe.config
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\bin\Debug\NearbyFriends.ConsoleTest.exe
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\bin\Debug\NearbyFriends.ConsoleTest.pdb
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\bin\Debug\NearbyFriends.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\bin\Debug\NearbyFriends.pdb
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\obj\Debug\NearbyFriends.ConsoleTest.exe
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends.ConsoleTest\obj\Debug\NearbyFriends.ConsoleTest.pdb
+C:\Users\eased\OneDrive\Documentos\Git\NearbyFriendsTest\NearbyFriends.ConsoleTest\bin\Debug\NearbyFriends.ConsoleTest.exe.config
+C:\Users\eased\OneDrive\Documentos\Git\NearbyFriendsTest\NearbyFriends.ConsoleTest\obj\Debug\NearbyFriends.ConsoleTest.exe
+C:\Users\eased\OneDrive\Documentos\Git\NearbyFriendsTest\NearbyFriends.ConsoleTest\obj\Debug\NearbyFriends.ConsoleTest.pdb

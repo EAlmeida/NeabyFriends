@@ -1,0 +1,4 @@
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends\bin\Debug\NearbyFriends.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends\bin\Debug\NearbyFriends.pdb
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends\obj\Debug\NearbyFriends.dll
+C:\Users\eased\Google Drive\2017-06-Tests-SubirNoGit\2017-06-Tests\FCamara_Test\NearbyFriends\obj\Debug\NearbyFriends.pdb
